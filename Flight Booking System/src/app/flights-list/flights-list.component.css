@@ -1,0 +1,22 @@
+.addFlightsBtn{
+    margin-top: 25px;
+    height: 50px;
+    width: 150px;
+    border-radius: 0;
+  }
+
+  .review-listBtn{
+    margin-top: 25px;
+    height: 50px;
+    width: 150px;
+    border-radius: 0;
+  }
+  .offer-card{
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
+
+  #b{
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }

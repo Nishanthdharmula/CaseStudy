@@ -1,0 +1,23 @@
+#outside {
+    background-color: lightgrey;
+    
+  }
+
+  .bookinglistBtn{
+    margin-top: 25px;
+    height: 50px;
+    width: 150px;
+    border-radius: 0;
+  }
+
+  .reviewBtn{
+    margin-top: 25px;
+    height: 50px;
+    width: 150px;
+    border-radius: 0;
+  }
+
+  .offer-card{
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
